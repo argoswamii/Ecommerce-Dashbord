@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  background-color: #f9f9f9;
+  font-family: "Inter";
+  height: 1000px;
+  width: 100%;
+  border-radius: 30px;
+}

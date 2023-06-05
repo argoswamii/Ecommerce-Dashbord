@@ -1,0 +1,45 @@
+.side {
+  /* display: flex; */
+  justify-content: center;
+  width: 246px;
+  height: 1000px;
+  border-radius: 20px;
+  background-color: #ffffff;
+}
+
+.zag {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.side > div > div {
+  padding-top: 50px;
+  display: inline-flex;
+}
+
+#rs {
+  margin-top: 20px;
+}
+
+.report {
+  height: 46px;
+  width: 193px;
+  margin-top: 10px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.logo {
+  height: 47px;
+  width: 73px;
+}
+
+.logos {
+  margin-right: 10px;
+  height: 11px;
+  width: 20px;
+}

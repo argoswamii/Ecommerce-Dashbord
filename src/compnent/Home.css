@@ -1,0 +1,26 @@
+.header {
+  height: 162px;
+}
+
+.main {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main > span {
+  margin-top: 15px;
+  padding-top: 8px;
+  background-color: #1b59f8;
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+
+.orderline {
+  /* margin-top: 90px; */
+  border: 1px solid black;
+  width: 1050px;
+  margin-left: 20px;
+}
